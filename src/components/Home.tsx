@@ -66,6 +66,12 @@ const Home: FC = () => {
             Column Filter Table
           </Button>
         </Link>
+
+        <Link to="dynamic-table">
+          <Button variant="contained" color="primary">
+            Dynamic Data Table
+          </Button>
+        </Link>
       </Box>
     </Container>
   );
