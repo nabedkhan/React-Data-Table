@@ -4,6 +4,8 @@
 
 ### View Live Demo: https://react-data-table-rho.vercel.app/
 
+![screenshot](https://github.com/nabedkhan/React-Data-Table/blob/main/screenshot.png)
+
 ## Example Tables
 
 1. Basic Simple Data Table
